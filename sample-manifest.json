@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b2338587-2bb4-443a-a913-57ae549b35f5",
+  "export_job_id": "e24753e4-6d9e-4f39-9468-3d907c373129",
   "id_short": 903809,
-  "published_at": "2026-04-22T19:06:59Z",
+  "published_at": "2026-04-29T07:14:31Z",
   "repo_name": "white-space-finder-in-portland-vancouver-hillsboro-metro-or-wa-us-sample-903809",
   "sample_asset_name": "beamstation_903809_food_and_drink-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/903809/beamstation_903809_food_and_drink-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "c59f15aa93a5c39eb63684267bc164e856e87391589d72c09f992f3d09518dfd",
-  "sample_size_bytes": 20320,
-  "total_records": 15
+  "sample_records": 2,
+  "sample_sha256": "94818baadd1d4dcd85a68f9328756bca694022f0d1de6908ff07390f440f105f",
+  "sample_size_bytes": 23372,
+  "total_records": 24
 }
