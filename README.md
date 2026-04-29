@@ -1,6 +1,6 @@
 # White Space Finder in Portland-Vancouver-Hillsboro (Metro), OR-WA, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `903809` |
 | Location | Portland-Vancouver-Hillsboro, OR-WA |
 | Category | Restaurants |
-| Full dataset size | 15 records |
-| Free sample size | 1 records (6.67%) |
-| Last export | 2026-04-22T01:57:15.666598+00:00 |
+| Full dataset size | 24 records |
+| Free sample size | 2 records (8.33%) |
+| Last export | 2026-04-29T05:00:55.146985+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-portland-vancouver-hillsboro-metro-or-wa-us-sample-903809/releases/download/sample-latest/beamstation_903809_food_and_drink-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
